@@ -26,7 +26,8 @@ class _LoginState extends State<Login>{
             ), const SizedBox(height: 22),
             ElevatedButton(onPressed: (){}, child: const Text("Google Sign In")),
             const SizedBox(height: 22),
-            const Text("By Continue , you are agree with out terms and conditions")
+            const Text("By Continue , you are agree with out terms and conditions"
+            , style: TextStyle(color: Colors.purple),)
             ],),),
     );
 
