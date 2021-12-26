@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "561219564415",
+    "firebase_url": "https://my-project-1554304913445-default-rtdb.firebaseio.com",
+    "project_id": "my-project-1554304913445",
+    "storage_bucket": "my-project-1554304913445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561219564415:android:568596f05cb594f906e04a",
+        "android_client_info": {
+          "package_name": "com.app.mynews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthedlZfO6f-5YSIK2SAdw5fd4tvnQw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561219564415:android:3af91be40a14409b06e04a",
+        "android_client_info": {
+          "package_name": "com.example.klp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthedlZfO6f-5YSIK2SAdw5fd4tvnQw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561219564415:android:857173793ea9263d06e04a",
+        "android_client_info": {
+          "package_name": "com.kashsoft.insta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthedlZfO6f-5YSIK2SAdw5fd4tvnQw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561219564415:android:d96d7e171a0b315506e04a",
+        "android_client_info": {
+          "package_name": "com.kashsoft.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561219564415-hmhvm3rah1m5m0o3tqr8p1411tf474as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kashsoft.quizapp",
+            "certificate_hash": "537874f9a3b7dfd2abad3246f9e19d05ec92bd59"
+          }
+        },
+        {
+          "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDthedlZfO6f-5YSIK2SAdw5fd4tvnQw6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561219564415-cplsvulnpedchbdn8q5n2n10pu11vglp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

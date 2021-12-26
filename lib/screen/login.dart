@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_signin_button/flutter_signin_button.dart';
 
+import '../services/auth.dart';
 class Login extends StatefulWidget{
   const Login ({Key? key}) : super(key: key);
 
@@ -24,9 +26,11 @@ class _LoginState extends State<Login>{
 
 
             ), const SizedBox(height: 22),
-            ElevatedButton(onPressed: (){}, child: const Text("Google Sign In")),
-            const SizedBox(height: 22),
-            const Text("By Continue , you are agree with out terms and conditions"
+            SignInButton(Buttons.GoogleDark, onPressed:() async{
+              await signWithGoogle();
+            }),
+        SizedBox(height: 22),
+      Text("By Continue , you are agree with out terms and conditions"
             , style: TextStyle(color: Colors.purple),)
             ],),),
     );
